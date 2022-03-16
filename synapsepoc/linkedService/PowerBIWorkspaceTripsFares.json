@@ -4,8 +4,8 @@
 		"annotations": [],
 		"type": "PowerBIWorkspace",
 		"typeProperties": {
-			"workspaceID": "",
-			"tenantID": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+			"workspaceID": "398383b7-77b9-4886-b37e-0cb0f4e833dc",
+			"tenantID": "b1ac35c5-fd11-43ba-a811-f82cc883731f"
 		}
 	}
 }
